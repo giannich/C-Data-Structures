@@ -1,14 +1,17 @@
 # C-Data-Structures
 
 This repository has a bunch of data structures I used for my Advanced Programming Class in C.
+This was the first time I took a C-programming class, so the code might look horrible.
+I might have also forgotten to properly manage my memory, but at least the code is heavily commented.
+Will update and clean the files whenever I get some free time :D
 
-- Stack
+- Stack 					(Available)
 - Queue
-- Singly Linked List
+- Singly Linked List 		(Available)
 - Doubly Linked List
 - Hash Table
-- Binary Search Tree
-- Red-Black Tree
+- Binary Search Tree 		(Available)
+- Red-Black Tree 			(Available)
 
 Complexity Table:
 
